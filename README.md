@@ -1,6 +1,6 @@
-- Hi, I’m @MaiTheLord
+- Hi, I’m `@MaiTheLord`
 - I mostly code in Java.
-- you can contact me on my discord, MaiTheLord#2927.
+- you can contact me on my discord, `MaiTheLord#2927`.
 
 <!---
 MaiTheLord/MaiTheLord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

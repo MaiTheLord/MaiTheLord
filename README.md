@@ -1,3 +1,3 @@
-- Hi, I’m Mai.
-- I am a developer, and I mostly code in Java, Kotlin, and C#.
-- you can contact me on my discord, `MaiTheLord#2927`.
+- Howdy, I’m Mai.
+- I am a software engineer, and I am familiar with a handful of languages including C++, Java, Kotlin, C#, JavaScript and Python.
+- For any contact, message my discord, `MaiTheLord#2927`.
